@@ -43,6 +43,7 @@ group  :test do
   gem 'simplecov','0.17.0', require: false
   gem 'factory_bot_rails', '5.0.2'
   gem 'faker', '1.9.6'
+  gem 'shoulda-matchers'
 end
 
 
